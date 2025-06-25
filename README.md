@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndrewWangH
 - 👀 I’m interested in LLM
 - 🌱 I’m currently learning LLM
-- 📫 How to reach me  andrewhhxw9919@gmail.com
+- 📫 How to reach me  v-kanwan@microsoft.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
